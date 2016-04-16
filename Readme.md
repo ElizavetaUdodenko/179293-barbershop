@@ -1,7 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Liza Udodenko](https://up.htmlacademy.ru/htmlcss/13/user/179293).
-
+* Наставник: [Екатерина Климович](https://htmlacademy.ru/profile/id84950).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
